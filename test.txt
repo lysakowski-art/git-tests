@@ -1,2 +1,3 @@
 some new test
 new text
+some changes after branch wich is supposed to be rebased

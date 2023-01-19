@@ -1,1 +1,2 @@
 something new for the tests
+changes which not supposed to harm anything from master
